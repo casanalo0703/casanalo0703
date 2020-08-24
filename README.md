@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Carlos Said, aka @casanalo0703.
+
+I'm a computer science student in Mexico
+
+#Let's be friends
+
+![Twitter Follow](https://img.shields.io/twitter/follow/carlosaid_0703?color=Blue&label=Follow%20me%21&logo=Twitter&style=for-the-badge)
+<a href="instagram.com/casanalo0703"><img src="https://img.shields.io/badge/@casanalo0703%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **casanalo0703/casanalo0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
