@@ -19,7 +19,9 @@ I'm a computer science student in Mexico
 
 > I am not a master of *any* of this languajes but I will become one... one day... Or I hope so.
 
-# Any fool can know. The point is to understand. ### (This is what I am trying to learn).
+## Any fool can know. The point is to understand. 
+### (This is what I am trying to learn).
+
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
