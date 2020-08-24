@@ -17,7 +17,7 @@ I'm a computer science student in Mexico
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
-	I am not a master of __any__ of this languajes but I will become one... one day... Or I hope so.
+> I am not a master of *any* of this languajes but I will become one... one day... Or I hope so.
 
 # Any fool can know. The point is to understand.
 ### (This is what I am trying to learn).
@@ -28,4 +28,4 @@ I'm a computer science student in Mexico
 
 Wait a second... there's nothing in this section. I know, but I'm working on super important and secret documents 🤫. But I hope I can share them soon with all of you.
 
-	Remember... I'ts dangerous to go alone, take this. ☕
+> Remember... I'ts dangerous to go alone, take this. ☕
