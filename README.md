@@ -27,7 +27,9 @@ I'm a computer science student in Mexico
 # Take a look at what I have been working on.
 
 Would you like to compress txt files? If so check out my Huffman Tree compressor [here.](https://github.com/casanalo0703/HuffmanTree)
+
 Do you need a todolist for yout team, familiy, friends, etc.? Our [todo list app](https://github.com/casanalo0703/random_string) can help you out!
+
 Want to play some YouTube playlists? You can do it [right here!](https://github.com/casanalo0703/YoutubePlaylist)
 
 > Remember... I'ts dangerous to go alone, take this. ☕
